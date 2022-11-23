@@ -1,1 +1,2 @@
 # Bike-Rental-Count-Prediction
+A machine learning model to predict the bike rental count based on daily environmental and seasonal settings. The dataset used is an aggregate of two :- hourly and daily basis and then extracted and added to corresponding weather and seasonal information. A Jupyter Notebook with code to first analyse the dataset and then make an effective model to predict the daily bike rental count.
